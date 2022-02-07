@@ -3,9 +3,9 @@
 # @gwaaimaster #
 
 # Junior Software Developer
-# - Python
-# - C++
-# - Java
-# - HTML/CSS
-# - Ballerina
+ - Python
+ - C++
+ - Java
+ - HTML/CSS
+ - Ballerina 
 
