@@ -1,6 +1,11 @@
 # Anthony Langford 
-# anthony@nshproductions.com #
+# namibia.langford@gmail.com #
 # @gwaaimaster #
 
-# Want an app? I'll eplain why its a bad idea for free. 
-#
+# Junior Software Developer
+# - Python
+# - C++
+# - Java
+# - HTML/CSS
+# - Ballerina
+
