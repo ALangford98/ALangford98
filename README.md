@@ -13,4 +13,4 @@
 **Currently learning:**
  - JavaScript
  - React
- - Vue
+
