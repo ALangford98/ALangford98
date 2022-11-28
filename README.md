@@ -9,6 +9,7 @@
  - Java
  - HTML/CSS
  - Ballerina 
+ - Julia
 
 **Currently learning:**
  - JavaScript
