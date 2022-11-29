@@ -1,6 +1,5 @@
 # Anthony Langford 
 # namibia.langford@gmail.com #
-# @gwaaimaster #
 
 # Junior Software Developer
 **Proficiencies:**
