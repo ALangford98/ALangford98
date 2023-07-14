@@ -5,12 +5,14 @@
 **Proficiencies:**
  - Python
  - C++
+ - OpenGL
  - Java
  - HTML/CSS
  - Ballerina 
  - Julia
-
-**Currently learning:**
  - JavaScript
  - React
+**Currently learning:**
+ - Django
+ - Rust
 
