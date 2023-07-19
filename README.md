@@ -12,6 +12,7 @@
  - Julia
  - JavaScript
  - React
+   
 **Currently learning:**
  - Django
  - Rust
