@@ -7,6 +7,7 @@
  - JavaScript
  - React
  - Python
+
 **Previously Used:**
  - C++
  - OpenGL
